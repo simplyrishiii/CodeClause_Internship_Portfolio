@@ -1,6 +1,9 @@
 # Portfolio Website
 My personal portfolio <a href="https://rishi.vercel.app/" target="_blank"></a> featuring my github projects along with my resume and skillset I bring.<br/>
 
+<div align="center">
+  <img alt="Demo" src="./Images/Demo.png" />
+</div>
 This project was built using these technologies.
 
 - React.js
